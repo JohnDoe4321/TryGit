@@ -1,7 +1,5 @@
-PULL_REQUEST_TEMPLATE
+This is a template file
 
-**This is a template**
+**Add your comments below**
 
-_Add your comments below_
-
-[] Done 
+*Changes*
